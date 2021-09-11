@@ -1,0 +1,32 @@
+{
+  "name": "freakland",
+  "version": "1.0.0",
+  "description": "Proyecto: Pagina web relacionada con videojuegos, anime, manga, novelas, etc.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gilver-Dk555/freakland.git"
+  },
+  "keywords": [
+    "freakland"
+  ],
+  "author": "Gilver-Dk555",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gilver-Dk555/freakland/issues"
+  },
+  "homepage": "https://github.com/Gilver-Dk555/freakland#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^6.0.1"
+  }
+}
